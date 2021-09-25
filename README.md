@@ -3,6 +3,13 @@ twitter - [5k6m](https://twitter.com/5k6m/) | keybase - [thennarasu](https://key
 
 # My other GitHub repos - [s0uthk1ng](https://github.com/s0uthk1ng/)
 
+## [convert-vcf-to-csv](https://github.com/s0uthk1ng/convert-vcard-to-csv)
+- converts multiple vcards to one csv
+- handles name, multiple phone numbers, multiple email address, dob, notes.
+
+## [mac-ntfs-mount-scripts](https://github.com/s0uthk1ng/mac-ntfs-mount-scripts)
+- NTFS mount / unmount / remount scripts for mac os. This helps to make external storage devices writable.
+
 ## [python-twitter-bot](https://github.com/s0uthk1ng/python-twitter-bot)
 - Writing a Twitter bot is fun. Runs in android app via #termux. The first part of the code reads the line in file(tweetthis.txt) and tweets it. Used python - twython and textblob (to filter based on sensitivity). Second part is to search the string in tamil or english which has more than specified no of retweets/likes and with sensitive score more than 0.25.
 - #tbot.py
