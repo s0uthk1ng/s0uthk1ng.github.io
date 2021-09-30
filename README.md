@@ -5,7 +5,7 @@ twitter - [5k6m](https://twitter.com/5k6m/) | keybase - [thennarasu](https://key
 
 ## [convert-vcard-to-csv](https://github.com/s0uthk1ng/convert-vcard-to-csv)
 - converts multiple vcards to one csv
-- handles name, multiple phone numbers, multiple email address, dob, notes.
+- handles name, multiple phone numbers, multiple email addresses, dob, notes.
 
 ## [mac-ntfs-mount-scripts](https://github.com/s0uthk1ng/mac-ntfs-mount-scripts)
 - NTFS mount / unmount / remount scripts for mac os. This helps to make external storage devices writable.
