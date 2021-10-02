@@ -26,6 +26,3 @@ languages. This is just used for gathering and information use only. one stop ac
 
 ## [talon-for-twitter-android-india-version](https://github.com/s0uthk1ng/talon-for-twitter-android-india-version)
 - This is a tweak of [Talon for Twitter](https://github.com/klinker-apps/talon-for-twitter-android) customized to support Indian languages. 100% opensource.
-
-## [cryptomator-android-rnd](https://github.com/s0uthk1ng/cryptomator-android-rnd)
-- This is a tweak of [Cryptomator for Android](https://github.com/cryptomator/android) forked for research and development purpose only.
