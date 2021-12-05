@@ -20,7 +20,7 @@ This is the enhanced version of python-twitter-bot, thats liked with heroku and 
 - This will retweet the tweets with specific keywordskeywords ['pollachi', 'பொள்ளாச்சி', 'pollachi district', 'பொள்ளாச்சி மாவட்டம்'] in ta and en 
 languages. This is just used for gathering and information use only. one stop account for Pollachi in twitter.
 
-## [python-telnet-test](https://twitter.com/python-telnet-test)
+## [python-telnet-test](https://github.com/thennarasug/python-telnet-test)
 - simple python script to do a telnet test with host/ip and port number
 #usage --> python telnet.py replace_ip_or_host_here replace_input_port_number_here
 
