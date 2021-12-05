@@ -1,5 +1,4 @@
-twitter - [5k6m](https://twitter.com/5k6m/) | keybase - [thennarasu](https://keybase.io/thennarasu) | mastodon - [@southking](https://mastodon.social/@southking)
-
+twitter - [5k6m](https://twitter.com/5k6m/) | keybase - [thennarasu](https://keybase.io/thennarasu) | mastodon - [@southking](https://mastodon.social/@southking) | linkedin - [thennarasug](https://www.linkedin.com/in/thennarasug/)
 
 # My other GitHub repos - [thennarasug](https://github.com/thennarasug/)
 
